@@ -1,0 +1,34 @@
+.left {
+	background-color:lavender;
+}
+
+.right {
+	background-color:lavenderblush;
+}
+
+.controls {
+	padding: 0px 0px 10px;
+}
+
+.ctrl-btn {
+	width:100%;
+	min-height:64px;
+}
+
+.last-spawned-sec {
+	display: flex;
+}
+
+.ls-lbl {
+	display: inline-block;
+}
+
+.button-wrapper {
+	padding: 1px;
+	display:flex;
+	justify-content: center;
+}
+
+.button-wrapper button {
+	width: 80%;
+}
